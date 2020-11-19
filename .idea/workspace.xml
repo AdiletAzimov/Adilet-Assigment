@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b215ebd-02d3-47f3-afc4-12c9f39be573" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XG5yVOWmsizH5CKIHoTEBBH1G7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\SeleniumPractice\src" />
+      <recent name="C:\Users\User\IdeaProjects\SeleniumPractice\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\SeleniumPractice\src\test\java\Utils" />
+      <recent name="C:\Users\User\IdeaProjects\SeleniumPractice\src\test\java" />
+      <recent name="C:\Users\User\IdeaProjects\SeleniumPractice\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunnerClass (2)">
+    <configuration name="AmazonAlexa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StepDef.AmazonAlexa" />
+      <module name="AssigmentAdilet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StepDef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StepDef.TestClass" />
+      <module name="AssigmentAdilet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StepDef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssigmentAdilet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="test.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssigmentAdilet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssigmentAdilet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/IdeaProjects/SeleniumPractice/target/testngRunner.xml" type="TestNG" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/testngRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerClass (2)" />
+        <item itemvalue="JUnit.RunnerClass (1)" />
+        <item itemvalue="JUnit.RunnerClass" />
+        <item itemvalue="Application.AmazonAlexa" />
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b215ebd-02d3-47f3-afc4-12c9f39be573" name="Default Changelist" comment="" />
+      <created>1580659844658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580659844658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="218" y="136" key="#Project_Structure" timestamp="1605795270769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="218" y="136" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1605795270769" />
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1605807095053">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1605807095053" />
+    <state x="601" y="321" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605809973502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="321" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1605809973502" />
+    <state width="1557" height="319" key="GridCell.Tab.0.bottom" timestamp="1605812004849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="319" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605812004849" />
+    <state width="1557" height="319" key="GridCell.Tab.0.center" timestamp="1605812004849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="319" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605812004849" />
+    <state width="1557" height="319" key="GridCell.Tab.0.left" timestamp="1605812004849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="319" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605812004849" />
+    <state width="1557" height="319" key="GridCell.Tab.0.right" timestamp="1605812004849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="319" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605812004849" />
+    <state x="585" y="123" key="svn.repositoryBrowser" timestamp="1605815245656">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="585" y="123" key="svn.repositoryBrowser/0.0.1600.860@0.0.1600.860" timestamp="1605815245656" />
+  </component>
+</project>

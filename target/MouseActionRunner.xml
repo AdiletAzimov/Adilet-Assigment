@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Action class Action">
+    <test name="Mouse Actions">
+        <parameter name="DriverName" value="ff"></parameter>
+        <classes>
+            <class name="TestNGPractice.AnnotationPractice"></class>
+        </classes>
+        
+    </test>
+    <test name="Mouse Action">
+        <parameter name="DriverName" value="chrome"></parameter>
+        <classes>
+            <class name="BasicWeb.TestClass"></class>
+        </classes>
+    </test>
+
+</suite>
